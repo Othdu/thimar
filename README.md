@@ -38,15 +38,19 @@ Whether you're a farmer seeking buyers for your crops, a consumer looking for fr
 - **REST APIs**: Seamless integration with backend services.
 
 ---
-
-## 📸 **Screenshots**
-
-![Marketplace Screenshot](https://via.placeholder.com/400x300?text=Marketplace+Screenshot)  
-![User Dashboard Screenshot](https://via.placeholder.com/400x300?text=User+Dashboard+Screenshot)  
-
-(*Replace with actual images of your app.*)
-
----
-
 ## 📂 **Project Structure**
+Thimar_App/
+│
+├── lib/               # Core app code
+│   ├── models/        # Data models
+│   ├── screens/       # UI Screens
+│   ├── widgets/       # Reusable widgets
+│   ├── services/      # API calls and data handling
+│   └── main.dart      # App entry point
+│
+├── assets/            # Images, fonts, and other resources
+│
+├── pubspec.yaml       # Dependencies and configurations
+│
+└── README.md          # Documentation
 
