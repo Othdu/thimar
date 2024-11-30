@@ -37,20 +37,4 @@ Whether you're a farmer seeking buyers for your crops, a consumer looking for fr
 - **Google Maps API**: Location-based services and navigation.  
 - **REST APIs**: Seamless integration with backend services.
 
----
-## 📂 **Project Structure**
-Thimar_App/
-│
-├── lib/               # Core app code
-│   ├── models/        # Data models
-│   ├── screens/       # UI Screens
-│   ├── widgets/       # Reusable widgets
-│   ├── services/      # API calls and data handling
-│   └── main.dart      # App entry point
-│
-├── assets/            # Images, fonts, and other resources
-│
-├── pubspec.yaml       # Dependencies and configurations
-│
-└── README.md          # Documentation
 
